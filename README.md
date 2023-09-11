@@ -5,9 +5,11 @@ API Reference
 Get all items
  GET https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=684cb893caf7425abeffad82ac1d0f4e
 
-Features
-Online Registration
-Latest news headlines
-User Friendly
-Notified time to time
-Light and quick
+Features:
+Online Registration,
+Latest news headlines,
+User Friendly,
+Notified time to time,
+Light and quick.
+Screenshots:Signuppage,Loginpage,HomeScreenPage,Newsfullviewscreen.
+the project pdf files are in document folder and the video demo in the video demo folder
