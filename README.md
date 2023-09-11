@@ -13,3 +13,9 @@ Notified time to time,
 Light and quick.
 Screenshots:Signuppage,Loginpage,HomeScreenPage,Newsfullviewscreen.
 the project pdf files are in document folder and the video demo in the video demo folder
+The implementation of our news app, with its unique features and focus on user 
+engagement, has yielded promising results. The integration of push notifications has proven 
+to be an effective means of keeping users informed and engaged throughout the day. By 
+sending notifications every 6 hours, users are prompted to check the latest headlines 
+regularly, ensuring they stay up-to-date with the most talk-about news stories from around 
+the world.
